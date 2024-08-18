@@ -1,0 +1,3 @@
+
+        }
+        arr[top] = element;
